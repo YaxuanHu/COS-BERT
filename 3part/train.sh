@@ -1,0 +1,1 @@
+python train.py --k 600 --dataset CN --neg_num 10 --gpu_num "2,3,4,5"

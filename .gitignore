@@ -1,0 +1,13 @@
+output/
+**/data/
+*.txt
+**/__pycache__/
+*.json
+*.pt
+*.png
+*.jpeg
+*.pkl
+*.pth
+*.bin
+*.csv
+*.pth

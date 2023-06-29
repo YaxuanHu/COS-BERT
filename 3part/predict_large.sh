@@ -1,0 +1,1 @@
+python predict_large.py --k 600 --dataset CN_UPPER --data_length 1200 --gpu_num "2,3,4,5"
